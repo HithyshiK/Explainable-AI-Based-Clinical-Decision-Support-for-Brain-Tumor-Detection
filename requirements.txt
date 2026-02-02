@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python-headless # or just opencv-python
+pandas
+scikit_learn
